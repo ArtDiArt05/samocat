@@ -1,0 +1,6 @@
+venv/
+.pytest/
+.pytest_cache/
+.idea/
+.vscode/
+.settings.json
